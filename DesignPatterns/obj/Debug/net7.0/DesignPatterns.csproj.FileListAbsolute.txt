@@ -1,0 +1,15 @@
+F:\Internship\C#\Cshrap\DesignPatterns\bin\Debug\net7.0\DesignPatterns.exe
+F:\Internship\C#\Cshrap\DesignPatterns\bin\Debug\net7.0\DesignPatterns.deps.json
+F:\Internship\C#\Cshrap\DesignPatterns\bin\Debug\net7.0\DesignPatterns.runtimeconfig.json
+F:\Internship\C#\Cshrap\DesignPatterns\bin\Debug\net7.0\DesignPatterns.dll
+F:\Internship\C#\Cshrap\DesignPatterns\bin\Debug\net7.0\DesignPatterns.pdb
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.AssemblyReference.cache
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfoInputs.cache
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfo.cs
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.CoreCompileInputs.cache
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.dll
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\refint\DesignPatterns.dll
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.pdb
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\DesignPatterns.genruntimeconfig.cache
+F:\Internship\C#\Cshrap\DesignPatterns\obj\Debug\net7.0\ref\DesignPatterns.dll

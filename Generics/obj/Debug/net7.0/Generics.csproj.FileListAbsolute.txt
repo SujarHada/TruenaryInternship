@@ -1,0 +1,15 @@
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+F:\Internship\C#\Cshrap\Generics\bin\Debug\net7.0\Generics.exe
+F:\Internship\C#\Cshrap\Generics\bin\Debug\net7.0\Generics.deps.json
+F:\Internship\C#\Cshrap\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+F:\Internship\C#\Cshrap\Generics\bin\Debug\net7.0\Generics.dll
+F:\Internship\C#\Cshrap\Generics\bin\Debug\net7.0\Generics.pdb
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.dll
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\refint\Generics.dll
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.pdb
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+F:\Internship\C#\Cshrap\Generics\obj\Debug\net7.0\ref\Generics.dll
